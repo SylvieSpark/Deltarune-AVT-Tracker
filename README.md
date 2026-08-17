@@ -1,7 +1,7 @@
 Setup Guide:
 
 1. If you have not already done so, install the **Universal Tracker** from https://github.com/FarisTheAncient/Archipelago/releases and place **tracker.apworld** into your _custom_worlds_ folder.
-2. Install the **Visual Tracker** from https://github.com/Wakamu/Archipelago/releases and place **visualtracker.apworld** into your _custom_worlds_ folder.
+2. If you have not already done so, install the **Visual Tracker** from https://github.com/Wakamu/Archipelago/releases and place **visualtracker.apworld** into your _custom_worlds_ folder.
 
 <img width="658" height="574" alt="Screenshot 2026-08-05 190531" src="https://github.com/user-attachments/assets/a9819efa-9513-421a-b3dd-a061e6854d8d" />
 
