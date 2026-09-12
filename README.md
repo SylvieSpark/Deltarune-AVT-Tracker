@@ -9,7 +9,7 @@ Setup Guide:
 
 <img width="292" height="113" alt="Screenshot 2026-08-05 191306" src="https://github.com/user-attachments/assets/c3eaef0a-5251-46b6-9bbe-7cd36211b5ad" />
 
-4. Install DELTARUNE.zip (from [https://github.com/SylvieSpark/Deltarune-AVT-Tracker/releases](url)) inside your **visual_packs** folder.
+4. Install DELTARUNE.zip (from [https://github.com/SylvieSpark/Deltarune-AVT-Tracker/releases/](url)) inside your **visual_packs** folder.
 5. Launch Archipelago Visual Tracker from the Archipelago launcher.   
 
 <img width="792" height="212" alt="Screenshot 2026-08-05 190721" src="https://github.com/user-attachments/assets/00844a8e-4aa1-4454-be6b-8edcdb009964" />
