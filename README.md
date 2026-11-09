@@ -13,9 +13,11 @@ Setup Guide:
 5. Launch Archipelago Visual Tracker from the Archipelago launcher.   
 
 <img width="792" height="212" alt="Screenshot 2026-08-05 190721" src="https://github.com/user-attachments/assets/00844a8e-4aa1-4454-be6b-8edcdb009964" />
-<br>
+
+
 (If you have not created your Multiworld yet, do so before continuing.)
-<br>
+
+
 6. Connect the Visual Tracker to the proper port.
 7. Select DELTARUNE from the Visual Packs dropdown.
 
