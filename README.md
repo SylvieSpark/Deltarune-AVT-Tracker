@@ -14,11 +14,15 @@ Setup Guide:
 
 <img width="792" height="212" alt="Screenshot 2026-08-05 190721" src="https://github.com/user-attachments/assets/00844a8e-4aa1-4454-be6b-8edcdb009964" />
 
+(If you have not created your Multiworld yet, do so before continuing.)
+
 6. Connect the Visual Tracker to the proper port.
 7. Select DELTARUNE from the Visual Packs dropdown.
 
 <img width="799" height="630" alt="Screenshot 2026-08-05 191618" src="https://github.com/user-attachments/assets/9f53c6c0-4abd-4fd6-aed3-828ee3e7b755" />
 
-8. Enjoy!
+8. Enjoy your DELTARUNE Visual Tracker!
 
-Made by **SylvieSpark** and **hotel Pneumario**, please report any issues with the DELTARUNE Visual Map pack to either of us on Discord.
+Pack made by **SylvieSpark** and **hotel Pneumario**, please report any issues with the DELTARUNE Visual Map pack to either of us on Discord.
+
+IMPORTANT: If you find that certain **Map tabs** are "missing" when using the Visual Tracker, make sure to turn **SHOW OUT-OF-LOGIC TABS** on! If no checks in a region are in logic, the tab corresponding to that region will not appear unless this setting is toggled on.
