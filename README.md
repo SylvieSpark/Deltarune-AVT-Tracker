@@ -25,4 +25,4 @@ Setup Guide:
 
 Pack made by **SylvieSpark** and **hotel Pneumario**, please report any issues with the DELTARUNE Visual Map pack to either of us on Discord.
 
-IMPORTANT: If you find that certain **Map tabs** are "missing" when using the Visual Tracker, make sure to turn **SHOW OUT-OF-LOGIC TABS** on! If no checks in a region are in logic, the tab corresponding to that region will not appear unless this setting is toggled on.
+**IMPORTANT:** If you find that certain **Map tabs** are "missing" when using the Visual Tracker, make sure to turn **SHOW OUT-OF-LOGIC TABS** on! If no checks in a region are in logic, the tab corresponding to that region will not appear unless this setting is toggled on.
